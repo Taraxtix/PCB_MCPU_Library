@@ -14,4 +14,4 @@ By "Standard Letter" I mean C for capacitors, R for resistors, etc
 I will keep a list of each part Id at the bottom of this read me
 
 # Part Ids
-- 1: Power_3V3_LDO_Island
+- 1: Power_3V3_LDO

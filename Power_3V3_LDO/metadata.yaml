@@ -1,9 +1,9 @@
 template:
-  name: Power_3V3_LDO_Island
+  name: Power_3V3_LDO
   description: 3.3 V linear regulator island with input/output decoupling and EN pin (EN is pulled to VIN by default)
   version: 1.0
-  layout_file: Power_3V3_LDO_Island.kicad_pcb
-  schematic_file: Power_3V3_LDO_Island.kicad_sch
+  layout_file: Power_3V3_LDO.kicad_pcb
+  schematic_file: Power_3V3_LDO.kicad_sch
   bom_auto: true
   lcsc_parts:
     - U101: C11337  TLV70033DDCR SOT23-5
